@@ -8,3 +8,7 @@ I highly recommend it for someone who wants to **learn new algorithms or topics*
 Each question teaches a new concept, which can be used for **competitive programming**.
 
 All the problems can be found at [CSES](https://cses.fi/problemset/).
+
+|Problem Type| Solved| Total|
+|---|---|---|
+|Introductory Problems| 16| 19|
