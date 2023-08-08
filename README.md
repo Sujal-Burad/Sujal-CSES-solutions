@@ -12,3 +12,4 @@ All the problems can be found at [CSES](https://cses.fi/problemset/).
 |Problem Type| Solved| Total|
 |---|---|---|
 |Introductory Problems| 16| 19|
+|Sorting and Searching|3|35|
