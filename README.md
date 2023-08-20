@@ -14,3 +14,4 @@ All the problems can be found at [CSES](https://cses.fi/problemset/).
 |Introductory Problems| 16| 19|
 |Sorting and Searching|25|35|
 |Dynamic Programming|14|19|
+|Graph Algorithms|4|36|
